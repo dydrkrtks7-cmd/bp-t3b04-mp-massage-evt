@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://gongdeok-massage-note.karaoke-gyodae-hub.xyz/sitemap.xml
+Sitemap: https://gongdeok-massage-note.karaoke-gyodae-hub.xyz/sitemap-pages.xml
